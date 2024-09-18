@@ -114,6 +114,7 @@ export default {
   },
 };
 </script>
+
 <style>
 :root {
   --main-color: #19114c;
